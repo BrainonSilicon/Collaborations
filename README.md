@@ -4,6 +4,7 @@ This repo contains presentation material (and related content) that I've used fo
 
 ## Contents
 - [Presentations](/Presentations) contains pdfs and/or slides of presentations I have given. These presentations are indexed by the README.md file.
+- [Workshops](/Workshops) contains pdfs, slides, (and video recordings where possible) for workshops or training sessions I have run. 
 
 
 ## External Link-Outs
