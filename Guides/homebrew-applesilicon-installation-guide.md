@@ -21,8 +21,8 @@ On Apple Silicon machines the Homebrew files are installed into the `/opt/homebr
 
 ### 2. Create a `~/.zprofile` file
 Run the following two commands: in your terminal
-`echo 'eval "$(/opt/homebrew/bin/brew shellenv)"' >> /Users/sbatchelor/.zprofile`
-`eval "$(/opt/homebrew/bin/brew shellenv)"`
+* `echo 'eval "$(/opt/homebrew/bin/brew shellenv)"' >> /Users/sbatchelor/.zprofile`
+* `eval "$(/opt/homebrew/bin/brew shellenv)"`
 
 ### 3. Check the install 
 
