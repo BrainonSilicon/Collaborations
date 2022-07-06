@@ -38,7 +38,7 @@ If Homebrew is successfully installed, there will be Homebrew files in `/opt/hom
 
 If the above didn't work then the stackoverflow consensus is that the following commands will work (but I haven't tried them myself): 
 
-`git clone https://github.com/Homebrew/brew homebrew`
-`eval "$(homebrew/bin/brew shellenv)"`
-`brew update --force --quiet`
-`chmod -R go-w "$(brew --prefix)/share/zsh"`
+* `git clone https://github.com/Homebrew/brew homebrew`
+* `eval "$(homebrew/bin/brew shellenv)"`
+* `brew update --force --quiet`
+* `chmod -R go-w "$(brew --prefix)/share/zsh"`
