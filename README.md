@@ -3,6 +3,7 @@
 This repo contains presentation material (and related content) that I've used for various talks & workshops that I thought others might find useful.
 
 ## Contents
+- [Guides](/Guides) contains tutorials, quick start guides, and other resources that helps usability. 
 - [Presentations](/Presentations) contains pdfs and/or slides of presentations I have given. These presentations are indexed by the README.md file.
 - [Workshops](/Workshops) contains pdfs, slides, (and video recordings where possible) for workshops or training sessions I have run. 
 
