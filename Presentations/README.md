@@ -1,4 +1,9 @@
 # Presentations 
+
+- [**Community Building in Citizen Science**](https://github.com/BrainonSilicon/Collaborations/blob/citizenscience-presentation/Presentations/2022-06-09-TPS-Citizen-Science-Community.pdf) Presentation which discussed the AutSPACEs Citizen Science project and the importance of Community Building as part of a Citizen Science project. This presentation also contains cited definitions for many of the terms related to Citizen Science and PPIE. 
+
+- [**AutSPACEs and Citizen Science**]() Presentation given at the 2022 Autistica Festival on the AutSPACEs project with co-presenters Susanna Fantoni, Otis Smith, and Georgia Aitkenhead. 
+
 - [**Benefits of Citizen Science**](https://github.com/BrainonSilicon/Collaborations/blob/main/Presentations/2022-02-15-PPIE-Presentation.pdf) Presentation on the ethical, inclusive, and collaborative benefits of Citizen Science to the Patient and Public Involvement and Engagement team at The Alan Turing Institute. 
 
 - [**Software Sustainability Institute Application**](https://github.com/BrainonSilicon/Collaborations/blob/main/Presentations/2021-SSI-Fellowship-Application.pdf) and accompanying presentation on youtube linked [here](https://www.youtube.com/watch?v=p1dD22bdh_s).
